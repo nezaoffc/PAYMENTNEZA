@@ -1,0 +1,2 @@
+# PAYMENTNEZA
+allpayment byneza store
